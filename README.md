@@ -1,0 +1,2 @@
+# mazes
+Obstacles and mazes
